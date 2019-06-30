@@ -13,8 +13,13 @@ spring:
     port: 6379
 server:
   port: 8999
-  servlet:
-    context-path: /sell/
+  context-path: /sell
+
+#注意：上面原先是
+#server:
+#  port: 8999
+#  servlet:
+#    context-path: /sell/
 
 swagger:
   enable: true
