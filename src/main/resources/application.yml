@@ -27,3 +27,7 @@ swagger:
   description: 用户子系统
   version: 1.0.0
   base-package: com.imooc.controller
+
+wechat:
+  mpAppId: wx5d13e80e550bebc0
+  mpAppSecret: 24eeb372ee246d990359917524baf09b
